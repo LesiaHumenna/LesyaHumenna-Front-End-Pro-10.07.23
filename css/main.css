@@ -38,14 +38,14 @@ button {
     display    : flex;
     align-items: center;
     color      : blue;
-    left       : 220px;
+    left       : 430px;
 }
 
 .next {
     display    : flex;
     align-items: center;
     color      : blue;
-    right: 220px;
+    right: 430px;
 }
 
 .next:hover,
@@ -57,7 +57,7 @@ button {
 .prev,
 .next {
     position : absolute;
-    top      : 30%;
+    top      : 60%;
     transform: translateY(-50%);
     padding  : 10px 20px;
     font-size: 16px;
